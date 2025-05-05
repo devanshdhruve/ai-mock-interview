@@ -19,7 +19,7 @@
   Engage in a seamless, real-time voice call for a fully immersive experience.
 
 - 📊 **Post-Interview Feedback**  
-  Get instant scoring and detailed feedback powered by **Google Gemini API**.
+  Get instant scoring and detailed feedback powered by **Google Gemini**.
 
 - ☁️ **Firebase Integration**  
   User authentication, session tracking, and data storage.
@@ -53,14 +53,14 @@
 
 - Users receive a real-time voice call from the AI agent (powered by **Vapi AI**).
 - A **live transcript** of the conversation appears during the call.
-- The agent asks questions based on the user’s selected preferences.
+- The agent asks questions based on the user’s selected preferences and interview is prepared by **Google Gemini**.
 
 ### 3. Feedback & Scoring
 
 - Once the interview ends:
-  - The conversation transcript is processed by **Google Gemini API**
+  - The conversation transcript is processed by **Google Gemini**
   - Feedback includes:
-    - Performance score (out of 10)
+    - Performance score (out of 100)
     - Strengths and areas for improvement
     - Summarized answers and advice
 
