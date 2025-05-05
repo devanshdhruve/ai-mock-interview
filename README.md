@@ -69,7 +69,7 @@
 ## 📦 Installation & Setup
 
 ```bash
-- git clone https://github.com/yourusername/ai-mock-interview.git
+- git clone https://github.com/devanshdhruve/ai-mock-interview.git
 - cd ai-mock-interview
 - npm install
 
